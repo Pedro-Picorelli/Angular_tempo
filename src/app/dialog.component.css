@@ -1,0 +1,23 @@
+.capitalize:first-letter {
+    text-transform: capitalize;
+}
+
+h2 {
+    color: rgb(0, 0, 120);
+    text-decoration: underline;
+    margin-bottom: 35px;
+}
+
+.caixa {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.col, .row {
+    justify-content:center;
+}
+
+button {
+    margin-top: 20px;
+}
